@@ -1,4 +1,4 @@
-## Olá !! Eu sou o Pedro Henrique, viviado em tecnologia e front-end developer!
+## Olá !! Eu sou o Pedro Henrique, viciado em tecnologia | Front-end Developer!
 
 <div align="center">
   <a href="https://github.com/PedroSS11">
