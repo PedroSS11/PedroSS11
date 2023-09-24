@@ -1,4 +1,4 @@
-## Olá !! Eu sou o Pedro Henrique | Web Full-Stack Developer!
+## Olá !! Eu sou Pedro Henrique | Web Full-Stack Developer!
 
 <!--<div align="center">
   <a href="https://github.com/PedroSS11">
