@@ -1,22 +1,28 @@
-## Olá !! Eu sou Pedro Henrique | Web Full-Stack Developer!
+## 👋🏼 Hello !!
 
-<!--<div align="center">
-  <a href="https://github.com/PedroSS11">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSS11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSS11&layout=compact&langs_count=7&theme=dark"/>
-</div> --> 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedrohenriquedev/)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="React-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
-  <img align="center" alt="dotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
- 
-</div>
-  
-  ##
- 
+- 💻 FullStack Web Developer
+
 <div>
-  <a href="https://www.linkedin.com/in/pedrohenriquedev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSS11&layout=compact&langs_count=10&theme=radical"
+    alt="Ranking mostrando as linguagens de programacao mais utilizadas por Pedro">
+</div>
+<div align="left">
+
+### 🛠 &nbsp; Stack
+
+##### Programming languages, frameworks and related
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,cs,dotnet)
+
+##### Tools
+
+![My Skills](https://skillicons.dev/icons?i=git,vscode,postman&theme=dark)
+
+##### Databases
+
+![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark)
+
 </div>
