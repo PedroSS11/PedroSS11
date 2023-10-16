@@ -15,7 +15,7 @@
 
 ##### Programming languages, frameworks and related
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,prisma,cs,dotnet)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,sequelize,prisma,cs,dotnet)
 
 ##### Tools
 
