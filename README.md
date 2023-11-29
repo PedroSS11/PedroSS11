@@ -20,7 +20,7 @@
 
 ##### Tools
 
-![My Skills](https://skillicons.dev/icons?i=git,vscode,visualstudio,postman&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=git,docker,vscode,visualstudio,postman&theme=dark)
 
 ##### Databases
 
