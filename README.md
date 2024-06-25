@@ -16,14 +16,5 @@
 
 ##### Programming languages, frameworks and related
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,java,spring,react,nodejs,express,sequelize,prisma,cs)
-
-##### Tools
-
-![My Skills](https://skillicons.dev/icons?i=git,docker,vscode,visualstudio,postman&theme=dark)
-
-##### Databases
-
-![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark)
-
+![My Skills](https://skillicons.dev/icons?i=js,ts,java,spring,react,nodejs,express,cs,docker,postgres,mysql,mongodb)
 </div>
