@@ -18,3 +18,11 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,java,spring,react,nodejs,express,cs,docker,postgres,mysql,mongodb)
 </div>
+
+<br>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedross11/pedross11/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedross11/pedross11/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedross11/pedross11/output/github-contribution-grid-snake.svg">
+</picture>
