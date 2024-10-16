@@ -27,4 +27,4 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedross11/pedross11/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Pedro's wakatime stats](https://github-readme-stats.vercel.app/api/pedross11?username=pedross11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Pedro's wakatime stats](https://github-readme-stats.vercel.app/api/PedroSS11?username=PedroSS11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
