@@ -20,7 +20,7 @@
 
 ##### Programming languages, frameworks and related
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,java,spring,react,nodejs,express,cs,docker,postgres,mysql,mongodb,azure)
+![My Skills](https://skillicons.dev/icons?i=js,ts,java,spring,react,nodejs,express,cs,docker,postgres,mysql,mongodb,azure,linux)
 </div>
 
 <br>
