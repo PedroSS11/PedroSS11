@@ -24,7 +24,6 @@
 </div>
 
 <br>
-<hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <!--p align=center>
@@ -42,9 +41,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroSS11&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 -->
-<hr>
-
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedross11/pedross11/output/github-contribution-grid-snake-dark.svg">
