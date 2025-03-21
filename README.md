@@ -8,11 +8,12 @@
 
 - 💻 Backend Developer
 
-<div>
+<!--<div>
   <img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSS11&layout=compact&langs_count=10&theme=radical"
     alt="Ranking mostrando as linguagens de programacao mais utilizadas por Pedro">
 </div>
+-->
 
 <div align="left">
 
