@@ -25,6 +25,8 @@
 </div>
 
 <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSS11&layout=compact&theme=radical)
+<br>
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <!--p align=center>
